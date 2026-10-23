@@ -8,7 +8,9 @@
 
 ---
 
+<!--
 <img align="right" alt="Coding GIF" src="coding visual art GIF by SymmetryInChaos.gif" width="400"/>
+-->
 
 ## 👨🏻‍💻 About Me:
 
