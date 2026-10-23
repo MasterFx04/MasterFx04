@@ -1,14 +1,14 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Adrian</h1>
+<h1 align="center">Hello <img src="[WAVE_GIF_PLACEHOLDER]" width="30px">, I'm Adrian</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=MIS+Student+%40+UTP%2C+Panama;Data+%26+Systems+Engineer+in+the+making;Aspiring+Quant+Finance+Professional;Always+building+something+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=MIS+Student+%40+UTP%2C+Panama;Data+%26+Systems+Engineer+in+the+making;Aspiring+Quant+Finance+Professional;Always+building+something+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-<img align="right" alt="Coding GIF" src="https://github.com/MasterFx04/MasterFx04/blob/b1f96d823a8749a3ac2dc08cc3fc7f550874cb2e/coding%20visual%20art%20GIF%20by%20SymmetryInChaos.gif" width="400"/>
+<img align="right" alt="Coding GIF" src="[CODING_GIF_PLACEHOLDER]" width="400"/>
 
 ## 👨🏻‍💻 About Me:
 
