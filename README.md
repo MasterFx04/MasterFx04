@@ -62,4 +62,4 @@
 
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterFx04&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical)](https://github.com/MasterFx04)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MasterFx04&theme=radical)](https://github.com/MasterFx04)
