@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="[WAVE_GIF_PLACEHOLDER]" width="30px">, I'm Adrian</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Adrian</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" src="[CODING_GIF_PLACEHOLDER]" width="400"/>
+<img align="right" alt="Coding GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhjenNrZ3JtbHQzemZ5ZjB2b2U3azA5NjE4N3R2cnVscW1kanZiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWyXUjNP9bhSXnSKXC/giphy.gif" width="400"/>
 
 ## 👨🏻‍💻 About Me:
 
