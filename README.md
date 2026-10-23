@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" src="https://github.com/MasterFx04/MasterFx04/blob/main/coding%20visual%20art%20GIF%20by%20SymmetryInChaos.gif?raw=true" width="400"/>
+<img align="right" alt="Coding GIF" src="https://github.com/MasterFx04/MasterFx04/blob/b1f96d823a8749a3ac2dc08cc3fc7f550874cb2e/coding%20visual%20art%20GIF%20by%20SymmetryInChaos.gif" width="400"/>
 
 ## 👨🏻‍💻 About Me:
 
