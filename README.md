@@ -54,12 +54,12 @@
 ## ❤️ Let's Get Connected:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasterFx04)
 
 ---
 
 ## 📊 My GitHub Data:
 
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterFx04&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical)](https://github.com/YOUR-USERNAME)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical)](https://github.com/MasterFx04)
