@@ -12,25 +12,23 @@
 
 ## 👨🏻‍💻 About Me:
 
-<table>
-<tr>
-<td valign="top">
-
 - 🎓 **MIS Student** at Universidad Tecnológica de Panamá — *Ingeniería en Sistemas de Información Gerencial*
+
 - 🔭 Currently building out personal **financial data projects** for my GitHub portfolio
+
 - 🌱 Currently leveling up in `Python` · `pandas/NumPy` · `SQL` · `Data Engineering`
+
 - 📊 Deeply interested in **Quantitative Finance** — bridging systems engineering with financial modeling and risk analysis
+
 - 👯 Open to collaborate on **data-driven systems** and **dev projects**
+
 - 💬 Ask me about **C#, Python scripting, Unity game dev, or anything MIS/data-related**
+
 - 👨‍💻 Working toward a career at the intersection of **data engineering and the financial sector**
+
 - ⚡ Fun fact: I build games *and* crunch numbers — portfolio says both, life chooses neither
 
-</td>
-<td>
-<img src="TU_URL_DEL_GIF" width="220"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
